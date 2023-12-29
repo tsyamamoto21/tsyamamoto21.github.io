@@ -5,11 +5,11 @@ Cosmology group, Nagoya University, Japan [[link]](https://www.astro-th.phys.nag
 Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
 
 
+
 ----
-<!-- @import "[TOC]" {cmd="toc" depthFrom=1 depthTo=6 orderedList=false} -->
-
-<!-- code_chunk_output -->
-
+- [CV](#cv)
+  - [学歴（education）](#学歴education)
+  - [職歴](#職歴)
 - [Research interest](#research-interest)
 - [Publication list](#publication-list)
   - [reviewed](#reviewed)
@@ -21,7 +21,27 @@ Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
   - [口頭発表（国内）](#口頭発表国内)
 - [科研費等獲得実績](#科研費等獲得実績)
 
-<!-- /code_chunk_output -->
+----
+# CV
+
+## 学歴（education）
+- 2010.03 北海道帯広柏葉高校　卒業
+- 2010.04 京都大学理学部　入学
+- 2015.03 京都大学理学部　卒業
+- 2015.04 京都大学理学研究科物理学・宇宙物理学専攻博士前期課程　入学
+- 2017.03 京都大学理学研究科物理学・宇宙物理学専攻博士前期課程　修了
+- 2017.04 京都大学理学研究科物理学・宇宙物理学専攻博士後期課程　入学
+- 2021.03 京都大学理学研究科物理学・宇宙物理学専攻博士前期課程　指導認定退学
+- 2021.05 学位取得　博士（理学） 
+
+- March 2015 Bachelor (Kyoto University)
+- March 2017 Master degree (Kyoto University)
+- May 2021 Ph.D in Science (Kyoto University)
+
+## 職歴
+- 2021.04 名古屋大学技術補佐員（- 2021.05）
+- 2021.06 名古屋大学理学研究科研究員（- 現在）
+- 2023.04 愛知工業大学非常勤講師（- 2023.09）
 
 ----
 # Research interest
