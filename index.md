@@ -67,7 +67,7 @@ see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 
 1. *"Deep learning for intermittent gravitational wave signals"*,
   **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu, (2022)
-  [Phys. Rev. D 107, 044032](https://link.aps.org/doi/10.1103/PhysRevD.107.044032), [arXiv: 2008.13156](https://arxiv.org/abs/2208.13156)
+  [Phys. Rev. D 107, 044032](https://link.aps.org/doi/10.1103/PhysRevD.107.044032), [arXiv: 2208.13156](https://arxiv.org/abs/2208.13156)
 
 1. *"Gravitational wave matched filtering by quantum Monte Carlo integration and quantum amplitude amplification"*,
   Koichi Miyamoto, Gonzalo Morrás, **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Savvas Nesseris, (2022)
@@ -102,6 +102,10 @@ see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 
 ## Invited talks
 
+1. *"Search for continuous gravitational waves"*
+   Zhejiang Astronomy Computing Series, (Zhejiang Lab, China), November 2023
+1. *"Search for PBHs by gravitational waves"
+   Black hole and gravitational waves: from alternative theories of gravity to data analysis (Pohang, Korea) September 2023
 1. 「重力波データ解析への深層学習の応用」(domestic)
   第5回High Performance Computing Physics (HPC-Phys)勉強会 (Tokyo) 2019年11月
 
@@ -109,10 +113,16 @@ see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 ## Seminars
 
 1. *"Deep learning for intermittent gravitational wave signals"*,
-  東京大学 RESCEU 2023年5月
+  東京大学 RESCEU, May 2023
 
-1. "Recent works on deep learning applications for gravitational wave astronomy",
-  東京大学　宇宙線研究所セミナー 2022年12月
+1. *"Recent works on deep learning applications for gravitational wave astronomy"*,
+  東京大学　宇宙線研究所セミナー, December 2022
+
+1. *"Deep learning for intermittent gravitational wave signals"*,
+   Institute for Theoretical Physics, Autonomous University of Madrid, Spain, October 2022
+
+1. *"Assessing the impact of non-Gaussian noise on convolutional neural networks that search for continuous gravitational waves"*
+   Institute for Theoretical Physics, Autonomous University of Madrid, Spain, October 2022
 
 1. 「ブラックホール準固有振動とリングダウン重力波」  
   東京工業大学セミナー 2020年1月
