@@ -52,7 +52,20 @@ Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
 
 see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 （新学術領域研究『重力波物理学・天文学：　創世記』）
-[English](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=en) [日本語](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=ja)
+
+[English](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=en)
+
+[日本語](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=ja)
+
+and
+
+Foundation of ``Machine Learning Physics''
+(学術変革領域研究(A) 学習物理学の創成)
+
+[English](https://mlphys.scphys.kyoto-u.ac.jp/en/)
+
+[日本語](https://mlphys.scphys.kyoto-u.ac.jp/)
+
 
 
 [Back to top](#takahiro-s-yamamoto)
@@ -61,36 +74,49 @@ see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 # Publication list
 
 [arXiv](https://arxiv.org/search/gr-qc?searchtype=author&query=Yamamoto%2C+T+S)
+
 [INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.S.Yamamoto.1)
 
 ## reviewed
 
 1. *"Deep learning for intermittent gravitational wave signals"*,
+  
   **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu, (2022)
+  
   [Phys. Rev. D 107, 044032](https://link.aps.org/doi/10.1103/PhysRevD.107.044032), [arXiv: 2208.13156](https://arxiv.org/abs/2208.13156)
 
 1. *"Gravitational wave matched filtering by quantum Monte Carlo integration and quantum amplitude amplification"*,
+  
   Koichi Miyamoto, Gonzalo Morrás, **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Savvas Nesseris, (2022)
+  
   [Phys. Rev. Research 4, 033150](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033150), [arXiv: 2205.05966](https://arxiv.org/abs/2205.05966)
 
 1. *"Assessing the impact of non-Gaussian noise on convolutional neural networks that search for continuous gravitational waves"*,
+  
   **Takahiro S. Yamamoto**, Andrew L. Miller, Magdalena Sieniawska and Takahiro Tanaka, (2022)
+  
   [Phys. Rev. D 106, 024025](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.024025), [arXiv: 2206.00882](https://arxiv.org/abs/2206.00882)
 
 1. *"Use of an excess power method and a convolutional neural network in an all-sky search for continuous gravitational waves"*,
+  
   **Takahiro S. Yamamoto**, Takahiro Tanaka, (2020)
+  
   [Phys. Rev. D 103, 084049](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.084049), [arXiv: 2011.12522](https://arxiv.org/abs/2011.12522)
 
 
 1. *"Comparison of various methods to extract ringdown frequency from gravitational wave data"*,  
+  
   H. Nakano, Tatsuya Narikawa, Ken-ichi Oohara, Kazuki Sakai, Hisa-aki Shinkai, Hirotaka Takahashi, Takahiro Tanaka, Nami Uchikata, Shun Yamamoto and **Takahiro S. Yamamoto**, (2019)  
+  
   [Phys. Rev. D 99, 124032](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124032), [arXiv:1811.06443](https://arxiv.org/abs/1811.06443)
 
 
 ## others
 
 1. *"Use of conditional variational auto encoder to analyze ringdown gravitational waves"*,  
+  
   **Takahiro S. Yamamoto**, Takahiro Tanaka, (2020)  
+  
   [arXiv: 2002.12095](https://arxiv.org/abs/2002.12095)
 
 
