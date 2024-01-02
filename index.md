@@ -12,6 +12,7 @@ Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
   - [職歴](#職歴)
 - [Research interest](#research-interest)
 - [Publication list](#publication-list)
+  - [Recent](#recent)
   - [reviewed](#reviewed)
   - [others](#others)
 - [Presentation list](#presentation-list)
@@ -72,6 +73,14 @@ Foundation of ``Machine Learning Physics''
 [arXiv](https://arxiv.org/search/gr-qc?searchtype=author&query=Yamamoto%2C+T+S)
 
 [INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.S.Yamamoto.1)
+
+
+## Recent
+
+1. 1. *"Prospects of detection of subsolar mass primordial black hole and white dwarf binary mergers"*
+   **Takahiro S. Yamamoto**, Ryoto Inui, Yuichiro Tada, and Shuichiro Yokoyama,
+   [arxiv: 2401.00044](http://arxiv.org/abs/2401.00044)
+
 
 ## reviewed
 
