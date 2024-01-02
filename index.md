@@ -77,7 +77,7 @@ Foundation of ``Machine Learning Physics''
 
 ## Recent
 
-1. 1. *"Prospects of detection of subsolar mass primordial black hole and white dwarf binary mergers"*
+1. *"Prospects of detection of subsolar mass primordial black hole and white dwarf binary mergers"*
    **Takahiro S. Yamamoto**, Ryoto Inui, Yuichiro Tada, and Shuichiro Yokoyama,
    [arxiv: 2401.00044](http://arxiv.org/abs/2401.00044)
 
