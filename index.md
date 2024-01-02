@@ -58,8 +58,8 @@ see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"
 
 and
 
-Foundation of ``Machine Learning Physics''  
-(学術変革領域研究(A) 学習物理学の創成)  
+Transformative Research Area (A) ``Foundation of Machine Learning Physics''  
+(学術変革領域研究(A)『学習物理学の創成』)  
 [English](https://mlphys.scphys.kyoto-u.ac.jp/en/){:target="_blank"}  
 [日本語](https://mlphys.scphys.kyoto-u.ac.jp/){:target="_blank"}
 
@@ -126,7 +126,7 @@ Foundation of ``Machine Learning Physics''
 
 1. *"Search for continuous gravitational waves"*  
    Zhejiang Astronomy Computing Series, (Zhejiang Lab, China), November 2023
-1. *"Search for PBHs by gravitational waves"  
+1. *"Search for PBHs by gravitational waves"*  
    Black hole and gravitational waves: from alternative theories of gravity to data analysis (Pohang, Korea) September 2023
 1. 「重力波データ解析への深層学習の応用」(domestic)  
   第5回High Performance Computing Physics (HPC-Phys)勉強会 (Tokyo) 2019年11月
@@ -232,7 +232,7 @@ Foundation of ``Machine Learning Physics''
 
 # 科研費等獲得実績
 
-- 科研費：学術変革領域研究(A)「学習物理学」公募研究  
+- 科研費：学術変革領域研究(A)「学習物理学の創成」公募研究  
   研究課題「重力理論の検証に向けた深層学習によるリングダウン重力波の解析」（2023-2024年度）
 - 科研費：若手研究  
   研究課題「新物理・新粒子探索に向けた深層学習による効率的な連続重力波解析手法の開発」（2023-2025年度）
