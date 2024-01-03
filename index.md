@@ -83,7 +83,7 @@ Transformative Research Area (A) ``Foundation of Machine Learning Physics''
 ## reviewed
 
 1. *"Deep learning for intermittent gravitational wave signals"*,  
-  **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu, (2022)  
+  **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu, (2023)  
   [Phys. Rev. D 107, 044032](https://link.aps.org/doi/10.1103/PhysRevD.107.044032){:target="_blank"},
   [arXiv: 2208.13156](https://arxiv.org/abs/2208.13156){:target="_blank"}
 
