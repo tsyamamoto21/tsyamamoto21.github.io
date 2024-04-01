@@ -1,8 +1,9 @@
 <h1> Takahiro S. Yamamoto （山本　貴宏）</h1>
 
-Postdoctral researcher
-Cosmology group, Nagoya University, Japan [[link]](https://www.astro-th.phys.nagoya-u.ac.jp/c-lab/){:target="_blank"}  
-Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
+Project researcher
+Research Center for the Early Universe (RESCEU) [[link]](https://www.resceu.s.u-tokyo.ac.jp/top.php){:target="_blank"}  
+University of Tokyo, Japan
+Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 
 
 
@@ -41,8 +42,14 @@ Email: yamamoto.takahiro.u6---at mark---f.mail.nagoya-u.ac.jp
 
 ## 職歴
 - 2021.04 名古屋大学技術補佐員（- 2021.05）
-- 2021.06 名古屋大学理学研究科研究員（- 現在）
+- 2021.06 名古屋大学理学研究科研究員（- 2024.03）
 - 2023.04 愛知工業大学非常勤講師（- 2023.09）
+- 2024.04 東京大学理学系研究科附属ビッグバン宇宙国際研究センター(RESCEU)特任研究員 (- 現在)
+
+- 2021.04 Technical assistant, Nagoya University (- 2021.05)
+- 2021.06 Postdoctoral researcher, Nagoya University (- 2024.03)
+- 2023.04 Part-time teacher, Aichi Institute of Technology (- 2023.09)
+- 2024.04 Project researcher, RESCEU (U. Tokyo) (- present)
 
 ----
 # Research interest
