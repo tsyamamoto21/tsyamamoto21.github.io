@@ -1,8 +1,10 @@
 <h1> Takahiro S. Yamamoto （山本　貴宏）</h1>
 
 Project researcher
-Research Center for the Early Universe (RESCEU) [[link]](https://www.resceu.s.u-tokyo.ac.jp/top.php){:target="_blank"}  
-University of Tokyo, Japan
+Research Center for the Early Universe (RESCEU) [[link]](https://www.resceu.s.u-tokyo.ac.jp/top_en.php){:target="_blank"}  
+University of Tokyo, Japan  
+東京大学理学系研究科附属ビッグバン宇宙国際研究センター [[link]](https://www.resceu.s.u-tokyo.ac.jp/top.php){:target="_blank"}  
+特任研究員  
 Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 
 
