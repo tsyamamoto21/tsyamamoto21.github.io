@@ -92,7 +92,7 @@ Transformative Research Area (A) ``Foundation of Machine Learning Physics''
 
 1. *"Prospects of detection of subsolar mass primordial black hole and white dwarf binary mergers"*,  
    **Takahiro S. Yamamoto**, Ryoto Inui, Yuichiro Tada, and Shuichiro Yokoyama, (2024)  
-   [Phye. Rev. D 109, 103514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.103514){:target="_blank"},  
+   [Phye. Rev. D 109, 103514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.103514){:target="_blank"},
    [arxiv: 2401.00044](http://arxiv.org/abs/2401.00044){:target="_blank"}
 
 1. *"Deep learning for intermittent gravitational wave signals"*,  
