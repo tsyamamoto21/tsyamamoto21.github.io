@@ -168,8 +168,8 @@ Transformative Research Area (A) ``Foundation of Machine Learning Physics''
 
 ## Oral (international)
 
-1. *"Convolutional neural network for directed searches of continuous gravitational waves"*,
-   The 2nd continuous gravitational waves and neutron stars workshop, Hannover Germany, 17-20 June 2024
+1. *"Convolutional neural network for directed searches of continuous gravitational waves"*,  
+   The 2nd continuous gravitational waves and neutron stars workshop [link](https://plan.events.mpg.de/event/133/overview), Hannover, Germany, 17-20 June 2024
 
 1. *"Deep learning for intermittent gravitational wave signals"*,  
   The 38th International Cosmic Ray Conference (ICRC2023), Nagoya Japan, July-August 2023
