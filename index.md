@@ -82,42 +82,41 @@ Transformative Research Area (A) ``Foundation of Machine Learning Physics''
 [INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.S.Yamamoto.1){:target="_blank"}
 
 
-## Recent
+## Reviewed
 
 1. *"Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches"*,  
-   George Alestas, Gonzalo Morras, **Takahiro S. Yamamoto**, Juan Garcia-Bellido, Sachiko Kuroyanagi, and Savvas Nesseris  
-   [arxiv: 2401.02314](https://arxiv.org/abs/2401.02314){:target="_blank"}
-
-## reviewed
+   George Alestas, Gonzalo Morras, **Takahiro S. Yamamoto**, Juan Garcia-Bellido, Sachiko Kuroyanagi, and Savvas Nesseris (2024)  
+   [Phys. Rev. D 109, 123516](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.123516){:target="_blank"},
+   [arXiv: 2401.02314](https://arxiv.org/abs/2401.02314){:target="_blank"}
 
 1. *"Prospects of detection of subsolar mass primordial black hole and white dwarf binary mergers"*,  
-   **Takahiro S. Yamamoto**, Ryoto Inui, Yuichiro Tada, and Shuichiro Yokoyama, (2024)  
-   [Phye. Rev. D 109, 103514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.103514){:target="_blank"},
-   [arxiv: 2401.00044](http://arxiv.org/abs/2401.00044){:target="_blank"}
+   **Takahiro S. Yamamoto**, Ryoto Inui, Yuichiro Tada, and Shuichiro Yokoyama (2024)  
+   [Phys. Rev. D 109, 103514](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.109.103514){:target="_blank"},
+   [arXiv: 2401.00044](http://arxiv.org/abs/2401.00044){:target="_blank"}
 
 1. *"Deep learning for intermittent gravitational wave signals"*,  
-  **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu, (2023)  
+  **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Guo-Chin Liu (2023)  
   [Phys. Rev. D 107, 044032](https://link.aps.org/doi/10.1103/PhysRevD.107.044032){:target="_blank"},
   [arXiv: 2208.13156](https://arxiv.org/abs/2208.13156){:target="_blank"}
 
 1. *"Gravitational wave matched filtering by quantum Monte Carlo integration and quantum amplitude amplification"*,  
-  Koichi Miyamoto, Gonzalo Morrás, **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Savvas Nesseris, (2022)  
+  Koichi Miyamoto, Gonzalo Morrás, **Takahiro S. Yamamoto**, Sachiko Kuroyanagi, Savvas Nesseris (2022)  
   [Phys. Rev. Research 4, 033150](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.033150){:target="_blank"},
   [arXiv: 2205.05966](https://arxiv.org/abs/2205.05966){:target="_blank"}
 
 1. *"Assessing the impact of non-Gaussian noise on convolutional neural networks that search for continuous gravitational waves"*,  
-  **Takahiro S. Yamamoto**, Andrew L. Miller, Magdalena Sieniawska and Takahiro Tanaka, (2022)  
+  **Takahiro S. Yamamoto**, Andrew L. Miller, Magdalena Sieniawska and Takahiro Tanaka (2022)  
   [Phys. Rev. D 106, 024025](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.024025){:target="_blank"},
   [arXiv: 2206.00882](https://arxiv.org/abs/2206.00882){:target="_blank"}
 
 1. *"Use of an excess power method and a convolutional neural network in an all-sky search for continuous gravitational waves"*,  
-  **Takahiro S. Yamamoto**, Takahiro Tanaka, (2020)  
+  **Takahiro S. Yamamoto**, Takahiro Tanaka (2020)  
   [Phys. Rev. D 103, 084049](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.103.084049){:target="_blank"},
   [arXiv: 2011.12522](https://arxiv.org/abs/2011.12522){:target="_blank"}
 
 
 1. *"Comparison of various methods to extract ringdown frequency from gravitational wave data"*,  
-  H. Nakano, Tatsuya Narikawa, Ken-ichi Oohara, Kazuki Sakai, Hisa-aki Shinkai, Hirotaka Takahashi, Takahiro Tanaka, Nami Uchikata, Shun Yamamoto and **Takahiro S. Yamamoto**, (2019)  
+  H. Nakano, Tatsuya Narikawa, Ken-ichi Oohara, Kazuki Sakai, Hisa-aki Shinkai, Hirotaka Takahashi, Takahiro Tanaka, Nami Uchikata, Shun Yamamoto and **Takahiro S. Yamamoto** (2019)  
   [Phys. Rev. D 99, 124032](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.99.124032){:target="_blank"},
   [arXiv:1811.06443](https://arxiv.org/abs/1811.06443){:target="_blank"}
 
