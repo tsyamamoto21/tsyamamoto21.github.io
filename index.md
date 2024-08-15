@@ -60,14 +60,7 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 - gravitational wave data analysis
 - application of deep learning
 
-see also. Innovative Area "Gravitational Wave Physics and Astronomy: Genesis"  
-（新学術領域研究『重力波物理学・天文学：　創世記』）  
-[English](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=en){:target="_blank"}  
-[日本語](https://gw-genesis.scphys.kyoto-u.ac.jp/ilias/ilias.php?ref_id=1&cmdClass=ilrepositorygui&cmdNode=wc&baseClass=ilrepositorygui&lang=ja){:target="_blank"}
-
-and
-
-Transformative Research Area (A) ``Foundation of Machine Learning Physics''  
+see also. Transformative Research Area (A) ``Foundation of Machine Learning Physics''  
 (学術変革領域研究(A)『学習物理学の創成』)  
 [English](https://mlphys.scphys.kyoto-u.ac.jp/en/){:target="_blank"}  
 [日本語](https://mlphys.scphys.kyoto-u.ac.jp/){:target="_blank"}
