@@ -160,6 +160,9 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Oral (international)
 
+1. *"Deep learning for ringdown gravitational waves"*,
+   New Physics from Gravitational Waves [link](https://sites.google.com/view/npgw-kyoto/%E3%83%9B%E3%83%BC%E3%83%A0), Kyoto, Japan, August 5-7, 2024
+
 1. *"Convolutional neural network for directed searches of continuous gravitational waves"*,  
    The 2nd continuous gravitational waves and neutron stars workshop [link](https://plan.events.mpg.de/event/133/overview), Hannover, Germany, 17-20 June 2024
 
@@ -207,6 +210,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 
 ## 口頭発表（国内）
+
+1. 「深層学習を用いたリングダウン重力波の解析」山本貴宏，田中貴浩，日本物理学会第79回年会，北海道大学，2024年9月
 
 1. 「非ガウス的背景重力波に対する深層学習の応用」山本貴宏，黒柳幸子，Guo-Chin Liu，日本物理学会2022年秋季大会，岡山理科大学，2022年9月
 
