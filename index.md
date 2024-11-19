@@ -161,10 +161,10 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 ## Oral (international)
 
 1. *"Deep learning for ringdown gravitational waves"*,
-   New Physics from Gravitational Waves [link](https://sites.google.com/view/npgw-kyoto/%E3%83%9B%E3%83%BC%E3%83%A0), Kyoto, Japan, August 5-7, 2024
+   [New Physics from Gravitational Waves](https://sites.google.com/view/npgw-kyoto/%E3%83%9B%E3%83%BC%E3%83%A0), Kyoto, Japan, August 5-7, 2024
 
 1. *"Convolutional neural network for directed searches of continuous gravitational waves"*,  
-   The 2nd continuous gravitational waves and neutron stars workshop [link](https://plan.events.mpg.de/event/133/overview), Hannover, Germany, 17-20 June 2024
+   [The 2nd continuous gravitational waves and neutron stars workshop](https://plan.events.mpg.de/event/133/overview), Hannover, Germany, 17-20 June 2024
 
 1. *"Deep learning for intermittent gravitational wave signals"*,  
   The 38th International Cosmic Ray Conference (ICRC2023), Nagoya Japan, July-August 2023
