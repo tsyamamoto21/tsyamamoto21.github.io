@@ -250,6 +250,11 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 - 科研費：若手研究  
   研究課題「新物理・新粒子探索に向けた深層学習による効率的な連続重力波解析手法の開発」（2023-2025年度）
 
+---
+
+# 講演
+
+- KagaQ 月夜サイエンス第62夜「重力波観測と深層学習を用いたデータ解析」[link](https://peatix.com/event/3653150?lang=ja-jp)
 
 
 [Back to top](#takahiro-s-yamamoto)
