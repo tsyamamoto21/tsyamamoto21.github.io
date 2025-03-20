@@ -134,6 +134,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Invited talks
 
+1. *「深層学習を用いた重力波データ解析」（domestic）*
+   日本物理学会2025年春季大会　シンポジウム講演「学習物理学の発展」, March 19 2025
 1. *"Search for continuous gravitational waves"*  
    Zhejiang Astronomy Computing Series, (Zhejiang Lab, China), November 2023
 1. *"Search for PBHs by gravitational waves"*  
@@ -215,6 +217,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 
 ## 口頭発表（国内）
+
+1. "BNS subtraction in DECIGO", 山本貴宏, [GRWest](https://sites.google.com/view/gr-west/%E3%83%9B%E3%83%BC%E3%83%A0), 香川県, 2025年3月
 
 1. 「深層学習を用いたリングダウン重力波の解析」山本貴宏，田中貴浩，日本物理学会第79回年会，北海道大学，2024年9月
 
