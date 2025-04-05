@@ -78,8 +78,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 ----
 # Publication list
 
-[arXiv](https://arxiv.org/search/gr-qc?searchtype=author&query=Yamamoto%2C+T+S){:target="_blank"}  
-[INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20T.S.Yamamoto.1){:target="_blank"}
+[arXiv](https://arxiv.org/search/?query=Yamamoto%2C+Takahiro+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}  
+[INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Takahiro.S.Yamamoto.1&author_count=10%20authors%20or%20less&ui-citation-summary=true){:target="_blank"}
 
 
 ## Reviewed
