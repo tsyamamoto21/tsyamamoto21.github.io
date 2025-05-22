@@ -42,18 +42,20 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 - March 2017 Master degree (Kyoto University)
 - May 2021 Ph.D in Science (Kyoto University)
 
-## 職歴
+## 職歴 Career
 - 2021.04 名古屋大学技術補佐員（- 2021.05）
 - 2021.06 名古屋大学理学研究科研究員（- 2024.03）
-- 2023.04 愛知工業大学非常勤講師（- 2023.09）
 - 2024.04 東京大学理学系研究科附属ビッグバン宇宙国際研究センター(RESCEU)特任研究員 (- 2025.03)
 - 2025.04 東京大学理学系研究科附属ビッグバン宇宙国際研究センター(RESCEU)特任助教（- present）
 
 - 2021.04 Technical assistant, Nagoya University (- 2021.05)
 - 2021.06 Postdoctoral researcher, Nagoya University (- 2024.03)
-- 2023.04 Part-time teacher, Aichi Institute of Technology (- 2023.09)
 - 2024.04 Project researcher, RESCEU, University of Tokyo (- 2025.03)
 - 2025.04 Project assistant professor, RESCEU, University of Tokyo (- present)
+
+## 教育歴 Teaching experience
+- 2023.04 非常勤講師、愛知工業大学、「物理学（電磁気）」（- 2023.09）
+- 2025.04 非常勤講師、駒沢大学、「人類と自然科学」（- 2025.09）
 
 ## Committee
 - 2024.08 JGWC 事務局長 (- present)
