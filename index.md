@@ -83,6 +83,11 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 [arXiv](https://arxiv.org/search/?query=Yamamoto%2C+Takahiro+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}  
 [INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Takahiro.S.Yamamoto.1&author_count=10%20authors%20or%20less&ui-citation-summary=true){:target="_blank"}
 
+## Recent
+
+1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
+   Katsuya T. Abe, Shun Arai, Ryoto Inui, Hirotaka Yarimoto, Takahiro S. Yamamoto, and Shuichiro Yokoyama  
+   [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"}
 
 ## Reviewed
 
