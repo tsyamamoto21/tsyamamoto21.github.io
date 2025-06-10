@@ -86,7 +86,7 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 ## Recent
 
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
-   Katsuya T. Abe, Shun Arai, Ryoto Inui, Hirotaka Yarimoto, Takahiro S. Yamamoto, and Shuichiro Yokoyama  
+   Katsuya T. Abe, Shun Arai, Ryoto Inui, Hirotaka Yarimoto, **Takahiro S. Yamamoto**, and Shuichiro Yokoyama  
    [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"}
 
 ## Reviewed
