@@ -143,8 +143,11 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Invited talks
 
-1. *「深層学習を用いた重力波データ解析」（domestic）*
-   日本物理学会2025年春季大会　シンポジウム講演「学習物理学の発展」, March 19 2025
+1. *"Gravitational wave data analysis and deep learning application" (domestic)*  
+   [ブラックホール摂動論研究会](https://sites.google.com/view/bhpc2025/home){:target="_blank"}  
+   チュートリアル: [github](https://github.com/tsyamamoto21/tutorial_gwanalysis_by_neuralnet){:target="_blank"}  
+1. *「深層学習を用いた重力波データ解析」（domestic）*  
+   日本物理学会2025年春季大会　シンポジウム講演「学習物理学の発展」, March 19 2025  
 1. *"Search for continuous gravitational waves"*  
    Zhejiang Astronomy Computing Series, (Zhejiang Lab, China), November 2023
 1. *"Search for PBHs by gravitational waves"*  
