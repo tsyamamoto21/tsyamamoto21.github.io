@@ -85,6 +85,11 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Recent
 
+1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
+   KAGRA Collaboration,  
+   [arXiv: 2508.03392](https://arxiv.org/abs/2508.03392){:target="_blank"}
+   (TSY contributed to the paper writing on the science part)  
+  
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
    Katsuya T. Abe, Shun Arai, Ryoto Inui, **Takahiro S. Yamamoto**, Hirotaka Yarimoto, and Shuichiro Yokoyama  
    [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"}
