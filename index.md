@@ -186,6 +186,9 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 ## Oral (international)
 
 1. *"Deep learning for ringdown gravitational waves"*,
+   [GR24/Amaldi16](https://iop.eventsair.com/gr24-amaldi16/), Glasgow, UK, July14 - July18, 2025
+
+1. *"Deep learning for ringdown gravitational waves"*,
    [New Physics from Gravitational Waves](https://sites.google.com/view/npgw-kyoto/%E3%83%9B%E3%83%BC%E3%83%A0), Kyoto, Japan, August 5-7, 2024
 
 1. *"Convolutional neural network for directed searches of continuous gravitational waves"*,  
@@ -213,7 +216,7 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
   online JGRG (online) November 2020
 
 1. *"Estimation of QNM frequency of ringdown gravitational wave using neural network"*,  
-  The third annual symposium of the innovative area "Gravitaional wave physics and astronomy: Genesis" (Kobe, Japan), Feb 2020
+  The third annual symposium of the innovative area "Gravitational wave physics and astronomy: Genesis" (Kobe, Japan), Feb 2020
 
 1. *"Estimation of QNM frequency of ringdown gravitational wave by neural network"*,  
   JGRG29 (Kobe, Japan) November 2019
@@ -231,10 +234,12 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
   JGRG27 (Hiroshima, Japan) November 2017
 
 1. *"Analysis of ringdown gravitational waveform by using neural network"*,  
-  Symposium on "New development in astrophysics through multi-messanger observations of gravitational wave sources" (Kyoto, Japan) August 2017
+  Symposium on "New development in astrophysics through multi-messenger observations of gravitational wave sources" (Kyoto, Japan) August 2017
 
 
 ## 口頭発表（国内）
+
+1. "BNS subtraction in DECIGO", 山本貴宏, [ACG2025](https://sites.google.com/view/general-research/%E3%83%9B%E3%83%BC%E3%83%A0), 新潟県, 2025年10月
 
 1. "BNS subtraction in DECIGO", 山本貴宏, [GRWest](https://sites.google.com/view/gr-west/%E3%83%9B%E3%83%BC%E3%83%A0), 香川県, 2025年3月
 
