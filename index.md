@@ -86,6 +86,10 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Recent
 
+1. *"Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers"*,  
+   **Takahiro S. Yamamoto**, Kipp Cannon, Hayato Motohashi, and Hiroaki W. H. Tahara  
+   [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"}
+
 1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
    KAGRA Collaboration,  
    [arXiv: 2508.03392](https://arxiv.org/abs/2508.03392){:target="_blank"}
