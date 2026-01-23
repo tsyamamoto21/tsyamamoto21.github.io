@@ -154,6 +154,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Invited talks
 
+1. *"Status of LIGO-Virgo-KAGRA gravitational wave observation"*  
+    [The 34th Workshop on General Relativity and Gravitation in Japan (JGRG34)](https://sites.google.com/view/jgrg-34/top-page){:target="_blank"}, Kyoto Japan, January 19 2026  
 1. *"Gravitational wave data analysis and deep learning application" (domestic)*  
    [ブラックホール摂動論研究会](https://sites.google.com/view/bhpc2025/home){:target="_blank"}  
    チュートリアル: [github](https://github.com/tsyamamoto21/tutorial_gwanalysis_by_neuralnet){:target="_blank"}  
