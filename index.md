@@ -86,9 +86,13 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Recent
 
+1. *"Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run"*,  
+   **Takahiro S. Yamamoto**  
+   [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"}  
+
 1. *"Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers"*,  
    **Takahiro S. Yamamoto**, Kipp Cannon, Hayato Motohashi, and Hiroaki W. H. Tahara  
-   [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"}
+   [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"},
    [github](https://github.com/tsyamamoto21/gw-hybridmfcnn-stellarmassbbh)
 
 1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
@@ -99,6 +103,7 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
    Katsuya T. Abe, Shun Arai, Ryoto Inui, **Takahiro S. Yamamoto**, Hirotaka Yarimoto, and Shuichiro Yokoyama  
    [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"}
+   (accepted by PRD)
 
 ## Reviewed
 
