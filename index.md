@@ -159,6 +159,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 ## Invited talks
 
+1. *"Continuous gravitational waves"*
+   [Numerical Relativity and Gravitational Waves Winter School 2026](https://school.gw.nr.re.kr/2026/winter/){:target="_blank"}, Korea (TSY participated online), February 4 2026  
 1. *"Status of LIGO-Virgo-KAGRA gravitational wave observation"*  
     [The 34th Workshop on General Relativity and Gravitation in Japan (JGRG34)](https://sites.google.com/view/jgrg-34/top-page){:target="_blank"}, Kyoto Japan, January 19 2026  
 1. *"Gravitational wave data analysis and deep learning application" (domestic)*  
