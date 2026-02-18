@@ -88,7 +88,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 1. *"Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run"*,  
    **Takahiro S. Yamamoto**  
-   [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"}  
+   [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"},
+   [github](https://github.com/tsyamamoto21/subtraction_estimate)  
 
 1. *"Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers"*,  
    **Takahiro S. Yamamoto**, Kipp Cannon, Hayato Motohashi, and Hiroaki W. H. Tahara  
