@@ -95,6 +95,7 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
    **Takahiro S. Yamamoto**, Kipp Cannon, Hayato Motohashi, and Hiroaki W. H. Tahara  
    [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"},
    [github](https://github.com/tsyamamoto21/gw-hybridmfcnn-stellarmassbbh)
+   (accepted by PRD)
 
 1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
    KAGRA Collaboration,  
