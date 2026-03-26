@@ -97,18 +97,13 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
    [Phys. Rev. D 113, 062004](https://journals.aps.org/prd/abstract/10.1103/5x62-9ldh){:target="_blank"}  
    [github](https://github.com/tsyamamoto21/gw-hybridmfcnn-stellarmassbbh){:target="_blank"}
 
+ 
+## Reviewed
 
-1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
-   KAGRA Collaboration,  
-   [arXiv: 2508.03392](https://arxiv.org/abs/2508.03392){:target="_blank"}
-   (TSY contributed to the paper writing on the science part)  
-  
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
    Katsuya T. Abe, Shun Arai, Ryoto Inui, **Takahiro S. Yamamoto**, Hirotaka Yarimoto, and Shuichiro Yokoyama  
    [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"},
    [Phys. Rev. D 113, 043552](https://journals.aps.org/prd/abstract/10.1103/r28r-vf4t){:target="_blank"}
-
-## Reviewed
 
 1. *"Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches"*,  
    George Alestas, Gonzalo Morras, **Takahiro S. Yamamoto**, Juan Garcia-Bellido, Sachiko Kuroyanagi, and Savvas Nesseris (2024)  
@@ -147,7 +142,15 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
   [arXiv:1811.06443](https://arxiv.org/abs/1811.06443){:target="_blank"}
 
 
-## others
+## Collaboration papers
+
+1. *"Decadal upgrade strategy for KAGRA toward post-O5 gravitational-wave astronomy"*,  
+   KAGRA Collaboration,  
+   [arXiv: 2508.03392](https://arxiv.org/abs/2508.03392){:target="_blank"}
+   (TSY contributed to the paper writing on the science part)  
+ 
+
+## Others
 
 1. *"Use of conditional variational auto encoder to analyze ringdown gravitational waves"*,  
   **Takahiro S. Yamamoto**, Takahiro Tanaka, (2020)  
