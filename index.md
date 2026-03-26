@@ -93,8 +93,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 1. *"Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers"*,  
    **Takahiro S. Yamamoto**, Kipp Cannon, Hayato Motohashi, and Hiroaki W. H. Tahara  
-   [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"},
-   [Phys. Rev. D 113, 062004](https://journals.aps.org/prd/abstract/10.1103/5x62-9ldh){:target="_blank"}  
+   [Phys. Rev. D 113, 062004](https://journals.aps.org/prd/abstract/10.1103/5x62-9ldh){:target="_blank"},
+   [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"}  
    [github](https://github.com/tsyamamoto21/gw-hybridmfcnn-stellarmassbbh){:target="_blank"}
 
  
@@ -102,8 +102,8 @@ see also. Transformative Research Area (A) ``Foundation of Machine Learning Phys
 
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
    Katsuya T. Abe, Shun Arai, Ryoto Inui, **Takahiro S. Yamamoto**, Hirotaka Yarimoto, and Shuichiro Yokoyama  
-   [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"},
-   [Phys. Rev. D 113, 043552](https://journals.aps.org/prd/abstract/10.1103/r28r-vf4t){:target="_blank"}
+   [Phys. Rev. D 113, 043552](https://journals.aps.org/prd/abstract/10.1103/r28r-vf4t){:target="_blank"},
+   [arXiv: 2506.07507](https://arxiv.org/abs/2506.07507){:target="_blank"}
 
 1. *"Applying the Viterbi Algorithm to Planetary-Mass Black Hole Searches"*,  
    George Alestas, Gonzalo Morras, **Takahiro S. Yamamoto**, Juan Garcia-Bellido, Sachiko Kuroyanagi, and Savvas Nesseris (2024)  
