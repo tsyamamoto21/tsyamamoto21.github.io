@@ -70,10 +70,12 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 - gravitational wave data analysis
 - application of deep learning
 
-see also. Transformative Research Area (A) ``Foundation of Machine Learning Physics''  
-(学術変革領域研究(A)『学習物理学の創成』)  
-[English](https://mlphys.scphys.kyoto-u.ac.jp/en/){:target="_blank"}  
-[日本語](https://mlphys.scphys.kyoto-u.ac.jp/){:target="_blank"}
+## Links
+
+- [RESCEU](https://www.resceu.s.u-tokyo.ac.jp/top.php)
+- [RESCEU Cannon group](https://group-webpage-762d1b.docs.ligo.org/)
+- [KAGRA](https://gwcenter.icrr.u-tokyo.ac.jp/)
+- [DECIGO](https://granite.phys.s.u-tokyo.ac.jp/decigo/?FrontPage)
 
 
 [Back to top](#takahiro-s-yamamoto)
