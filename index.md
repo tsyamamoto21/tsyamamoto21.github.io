@@ -95,7 +95,7 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 ## Reviewed
 
 1. *"Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run"*,  
-   **Takahiro S. Yamamoto**
+   **Takahiro S. Yamamoto**  
    [Phys. Rev. D 114, 043065](https://link.aps.org/doi/10.1103/vvg3-6vt2){:target="_blank"},
    [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"}  
    [github](https://github.com/tsyamamoto21/subtraction_estimate){:target="_blank"}  
