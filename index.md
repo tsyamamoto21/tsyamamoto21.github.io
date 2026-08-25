@@ -86,11 +86,12 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 [arXiv](https://arxiv.org/search/?query=Yamamoto%2C+Takahiro+S&searchtype=author&abstracts=show&order=-announced_date_first&size=50){:target="_blank"}  
 [INSPIRE HEP](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=a%20Takahiro.S.Yamamoto.1&author_count=10%20authors%20or%20fewer&ui-citation-summary=true&ui-exclude-self-citations=true){:target="_blank"}
 
-## Recent
+## Reviewed
 
 1. *"Assessing astrophysical foreground subtraction in DECIGO using compact binary populations inferred from the first part of the LIGO-Virgo-KAGRA's fourth observation run"*,  
-   **Takahiro S. Yamamoto**  
-   [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"},
+   **Takahiro S. Yamamoto**
+   [Phys. Rev. D 114, 043065](https://link.aps.org/doi/10.1103/vvg3-6vt2){:target="_blank"},
+   [arXiv: 2601.18378](https://arxiv.org/abs/2601.18378){:target="_blank"}  
    [github](https://github.com/tsyamamoto21/subtraction_estimate){:target="_blank"}  
 
 1. *"Hybrid algorithm combining matched filtering and convolutional neural networks for searching gravitational waves from binary black hole mergers"*,  
@@ -98,9 +99,6 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
    [Phys. Rev. D 113, 062004](https://journals.aps.org/prd/abstract/10.1103/5x62-9ldh){:target="_blank"},
    [arXiv: 2512.12399](https://arxiv.org/abs/2512.12399){:target="_blank"}  
    [github](https://github.com/tsyamamoto21/gw-hybridmfcnn-stellarmassbbh){:target="_blank"}
-
- 
-## Reviewed
 
 1. *"Multi-band observation of lensed gravitational waves as a probe of small-mass dark matter halos"*,  
    Katsuya T. Abe, Shun Arai, Ryoto Inui, **Takahiro S. Yamamoto**, Hirotaka Yarimoto, and Shuichiro Yokoyama  
