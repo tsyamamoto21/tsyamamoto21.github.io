@@ -65,7 +65,7 @@ Email: yamamoto.s.takahiro---at mark---resceu.s.u-tokyo.ac.jp
 - 2026年度後期 駒澤大学「人類と宇宙環境」
 
 ## Committee
-- 2024.08 JGWC 事務局長 (- present)
+- 2024.08 JGWC 事務局長 (- 2026.09)
 - 2024.01 LIGO-Virgo-KAGRA Collaboration Continuous Waves (CW) working group co-chair (- present)
 - 2022.08 KAGRA Scientific Congress Board Postdoc (- 2023.08)
 
